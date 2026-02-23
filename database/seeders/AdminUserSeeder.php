@@ -14,9 +14,9 @@ class AdminUserSeeder extends Seeder
     {
         // Create admin user
         $admin = User::firstOrCreate(
-            ['email' => 'admin@padel.com'],
+            ['email' => 'shark@padel.com'],
             [
-                'name'     => 'Admin',
+                'name'     => 'Shark',
                 'password' => Hash::make('password'),
             ]
         );
@@ -24,9 +24,9 @@ class AdminUserSeeder extends Seeder
 
         // Create staff user
         $staff = User::firstOrCreate(
-            ['email' => 'staff@padel.com'],
+            ['email' => 'adel@padel.com'],
             [
-                'name'     => 'Staff',
+                'name'     => 'Adel',
                 'password' => Hash::make('password'),
             ]
         );
