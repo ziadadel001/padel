@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d16e86bde9555a8a3a4cbdb7e299c9e2",
+    "content-hash": "60e4fa1d119e6ec16588703ebf1efb9f",
     "packages": [
         {
             "name": "anourvalar/eloquent-serialize",
@@ -5488,16 +5488,16 @@
         },
         {
             "name": "spatie/laravel-permission",
-            "version": "7.2.1",
+            "version": "7.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-permission.git",
-                "reference": "64ad4d3b8794e9eb89a8e33ce6fb4a14bdb200e0"
+                "reference": "4b2572eb5ef2c8cb719df09e0e6feb7431fda93f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-permission/zipball/64ad4d3b8794e9eb89a8e33ce6fb4a14bdb200e0",
-                "reference": "64ad4d3b8794e9eb89a8e33ce6fb4a14bdb200e0",
+                "url": "https://api.github.com/repos/spatie/laravel-permission/zipball/4b2572eb5ef2c8cb719df09e0e6feb7431fda93f",
+                "reference": "4b2572eb5ef2c8cb719df09e0e6feb7431fda93f",
                 "shasum": ""
             },
             "require": {
@@ -5563,7 +5563,7 @@
             ],
             "support": {
                 "issues": "https://github.com/spatie/laravel-permission/issues",
-                "source": "https://github.com/spatie/laravel-permission/tree/7.2.1"
+                "source": "https://github.com/spatie/laravel-permission/tree/7.2.2"
             },
             "funding": [
                 {
@@ -5571,7 +5571,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-02-21T23:29:42+00:00"
+            "time": "2026-02-22T08:20:44+00:00"
         },
         {
             "name": "symfony/clock",
@@ -10743,7 +10743,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.2"
+        "php": "^8.3"
     },
     "platform-dev": {},
     "plugin-api-version": "2.6.0"
